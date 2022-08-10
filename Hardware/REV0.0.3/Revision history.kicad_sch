@@ -1,0 +1,24 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 2af517ce-dbb7-400f-bd78-e2483c507a3b)
+
+  (paper "A4")
+
+  (title_block
+    (title "Carbon V3")
+    (date "2021-12-08")
+    (rev "0.0.3")
+    (company "GroundStudio.ro")
+    (comment 1 "Schematic: Victor")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "REV 0.0.2:\n\n-testing different uart pins setup\n\nREV 0.0.3:\n\n-added test point for GPIO0\n-added 100nF in parallel with R14 for better battery voltage level reading\n-adjusted the position of pin labels for better visibility"
+    (at 22.86 50.8 0)
+    (effects (font (size 2.032 2.032)) (justify left bottom))
+    (uuid 481acf47-5e61-47c9-8db3-71629c1711da)
+  )
+)
