@@ -1,4 +1,4 @@
-GroundStudio Jade Uno
+GroundStudio Carbon V3
 ====================================
 [![CYQ2](https://user-images.githubusercontent.com/77836107/183879412-437f7199-35a2-4f09-a13a-2b025eb15fca.png)](https://ardushop.ro/ro/home/2061-placa-de-dezvoltare-carbon-v3.html)
 
