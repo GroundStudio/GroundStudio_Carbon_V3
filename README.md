@@ -8,7 +8,7 @@ Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.
 
 Description
 -------------------
-Development board based on ESP32-PICO-V3-02 System-in-Package (SiP) and CH340C for USB comunication.
+Features ESP32 based Pico V3-02 with 2.4 GHz WiFi, V4.2 Bluetooth, 8MB SPI Flash, 2MB SPI PSRAM, 520kB internal SRAM, 448kB ROM, 18 GPIO, 12 ADC and 6 touch sensitive pins, I²C 3V3 adapter, RGB smart LED, 1 cell LiPo/LiIon battery charger with optional battery connector and CH340C for USB comunication.
 
 Contents
 -------------------
