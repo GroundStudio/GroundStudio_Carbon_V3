@@ -15,6 +15,7 @@ Contents
 
 * [/Documentation](https://github.com/GroundStudio/GroundStudio_Carbon_V3/tree/main/Documentation) -- Pinout.
 * [/Hardware](https://github.com/GroundStudio/GroundStudio_Carbon_V3/tree/main/Hardware) -- Schematics, layout.
+* [/Arduino](https://github.com/GroundStudio/GroundStudio_Carbon_V3/tree/main/Arduino/Examples) -- Arduino test examples.
 
 Versions
 -------------------
