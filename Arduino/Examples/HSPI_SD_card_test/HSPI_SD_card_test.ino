@@ -24,7 +24,7 @@ void writeFile(fs::FS &fs, const char * path, const char * message){
 
 void setup()
 {
-  Serial.begin(115200);
+  Serial.begin(9600);
   Serial.println();
   SPI.end(); 
   spiSD.begin(14, 13, 12, SD_CS); //CLK,MOSI,MISO,SS
