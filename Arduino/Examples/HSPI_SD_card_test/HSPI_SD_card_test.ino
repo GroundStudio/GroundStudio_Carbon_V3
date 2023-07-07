@@ -27,7 +27,7 @@ void setup()
   Serial.begin(9600);
   Serial.println();
   SPI.end(); 
-  spiSD.begin(14, 13, 12, SD_CS); //CLK,MOSI,MISO,SS
+  spiSD.begin(14, 12, 13, SD_CS); //SCK, MISO, MOSI, SS
   if (!SD.begin(SD_CS, spiSD))
   {
     Serial.println("Card Mount Failed");
