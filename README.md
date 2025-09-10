@@ -1,10 +1,10 @@
 GroundStudio Carbon V3
 ====================================
-[![CYQ2](https://user-images.githubusercontent.com/77836107/183879412-437f7199-35a2-4f09-a13a-2b025eb15fca.png)](https://ardushop.ro/ro/home/2061-placa-de-dezvoltare-carbon-v3.html)
+[![CYQ2](https://user-images.githubusercontent.com/77836107/183879412-437f7199-35a2-4f09-a13a-2b025eb15fca.png)](https://ardushop.ro/en/electronics/537-placa-de-dezvoltare-carbon-v3-6427854000392.html)
 
-Get it from [ardushop.ro](https://ardushop.ro/ro/home/2061-placa-de-dezvoltare-carbon-v3.html)
+Get it from [ardushop.ro](https://ardushop.ro/en/electronics/537-placa-de-dezvoltare-carbon-v3-6427854000392.html)
 
-Explore all the GroundStudio products at [GroundStudio.ro](https://groundstudio.ro/)
+Explore all the GroundStudio products at [ardushop.ro](https://ardushop.ro/en/37-groundstudio)
 
 Description
 -------------------
